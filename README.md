@@ -12,3 +12,5 @@ input {
     -webkit-appearance: none;
 }
 ```
+
+just copy paste the JossiCssReset.css file to your project
