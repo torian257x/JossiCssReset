@@ -11,6 +11,10 @@ input, textarea {
 input {
     -webkit-appearance: none;
 }
+html {-webkit-text-size-adjust: 100%; -moz-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
 ```
+
+webkit-text-size-adjust is basically that the browser does not change the font-size when rotating the device, but letting our css be in control.
+
 
 just copy paste the JossiCssReset.css file to your project
